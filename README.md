@@ -64,3 +64,11 @@ This script is free for personal, non-commercial use.
 If you'd like to contribute or suggest changes, please do so via the official repository.
 
 For full terms, see the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://github.com/illuluh/Facebook-Friend-Request-Cancellation-tool-script/blob/main/LICENSE).
+
+---
+
+## ⚠️ Disclaimer
+
+This script is provided for personal and educational use only. While a delay has been added between clicks for extra safety to reduce the risk of triggering Facebook’s anti-automation measures, 100% safety cannot be guaranteed.
+
+If you choose to modify or remove the delay, you do so entirely at your own risk. Using automation tools on Facebook may violate their Terms of Service, and you are solely responsible for any consequences.
