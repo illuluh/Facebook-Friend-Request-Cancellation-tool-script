@@ -54,7 +54,7 @@ This makes the script lightweight, safe, and non-intrusive — ideal for long fr
 1. Open Facebook and go to: `/friends/requests` (link: https://www.facebook.com/friends/requests).
 2. Press on `View sent requests`, A panel will open showing everyone you've sent friend requests to who haven't responded yet.
 3. Open your browser's **Developer Console** (`F12` or `Ctrl+Shift+J`).
-4. Paste the script and hit **Enter**!
+4. Paste the script and hit **Enter**, [The Script](https://github.com/illuluh/Facebook-Friend-Request-Cancellation-tool-script/blob/main/Script/CancelSentRequestsFinal.js)!
 
 ---
 
@@ -63,4 +63,4 @@ This makes the script lightweight, safe, and non-intrusive — ideal for long fr
 This script is free for personal, non-commercial use.  
 If you'd like to contribute or suggest changes, please do so via the official repository.
 
-For full terms, see the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](./LICENSE.txt).
+For full terms, see the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://github.com/illuluh/Facebook-Friend-Request-Cancellation-tool-script/blob/main/LICENSE).
